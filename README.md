@@ -1,6 +1,4 @@
-# AgainstTortures
-
-## Хакатон «Controller Hackaton» 
+# Хакатон «Controller Hackaton» 
 
 ***Название проекта***
 Не женское дело
